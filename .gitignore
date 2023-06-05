@@ -1,0 +1,2 @@
+#git ignora la carpeta node_modeles al hacer commit#
+node_modules
